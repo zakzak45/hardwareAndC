@@ -17,11 +17,17 @@ class Person{
     std::string emailAddress;
     std::cout<<"enter your email"<<std::endl;
     std::cin>>emailAddress;
-    
+
 
   }
 
+
+
+
+
 };
+
+
 
 
 
