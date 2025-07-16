@@ -25,14 +25,6 @@ class Person{
 
 
 
-class LoggedIn : public Person{
-   
-    LoggedIn(){
-    std::cout<<"im  am logged in"<<std::endl;
-    }
-};
-
-
 int main(){
 Person person(12,"zayne");
 person.age;
